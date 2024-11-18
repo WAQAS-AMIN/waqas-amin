@@ -4,7 +4,7 @@
 
 
 🌐 **About Me**
-👨‍💻 I'm a passionate Full Stack / Frontend Developer with 6 years of experience in crafting interactive, scalable, and user-friendly web applications. My journey is fueled by a deep curiosity for emerging technologies and a love for clean, efficient code.
+👨‍💻 I'm a passionate Frontend Developer with 6 years of experience in crafting interactive, scalable, and user-friendly web applications. My journey is fueled by a deep curiosity for emerging technologies and a love for clean, efficient code.
 
 🖼️ UI/UX Enthusiast: Designing user-centric and visually captivating interfaces.
 ⚙️ Tech Explorer: Experimenting with the latest tools and frameworks.
@@ -12,24 +12,13 @@
 
 
 
-### **✨ Fullstack Excellence**
+### **✨ stack Excellence**
 
 
 - **Frontend Speciality**:
 
 - 
    Transforming designs into interactive, responsive, and pixel-perfect interfaces with **Angular**, **React**, and **TypeScript**. Adept at using **SCSS** and **CSS3** for stunning visual effects and animations.  
-
-
-- **Backend Mastery**:
-
-- 
-   Building robust, scalable RESTful APIs and microservices with **Node.js** and **Express.js**. Ensuring security with JWT, OAuth, and role-based access control.  
-
-- **Database Proficiency**:
-
-- 
-   Designing efficient schemas and optimizing queries for relational databases like **PostgreSQL** and NoSQL databases like **MongoDB**. Experienced in writing complex stored procedures and ensuring data integrity.  
 
 
 - **Seamless Integration**:
@@ -82,13 +71,6 @@ React,
 Sass / SCSS,
 Bootstrap / Material UI,
 Tailwind,
-
-**Backend**
-
-Node JS,
-Express,
-Mongo DB,
-SQL / MYSQL
 
 **Other Tools**
 
