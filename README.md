@@ -15,7 +15,7 @@
 ### **✨ Fullstack Excellence**
 
 
-- **Frontend Wizardry**:
+- **Frontend Speciality**:
 
 - 
    Transforming designs into interactive, responsive, and pixel-perfect interfaces with **Angular**, **React**, and **TypeScript**. Adept at using **SCSS** and **CSS3** for stunning visual effects and animations.  
