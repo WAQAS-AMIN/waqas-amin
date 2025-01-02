@@ -12,7 +12,7 @@
 
 
 
-### **✨ stack Excellence**
+### **✨ Stack Excellence**
 
 
 - **Frontend Speciality**:
