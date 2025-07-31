@@ -4,7 +4,7 @@
 
 
 🌐 **About Me**
-👨‍💻 I'm a passionate Frontend Developer with 6 years of experience in crafting interactive, scalable, and user-friendly web applications. My journey is fueled by a deep curiosity for emerging technologies and a love for clean, efficient code.
+👨‍💻 I'm a passionate Frontend Developer with 5 + years of experience in crafting interactive, scalable, and user-friendly web applications. My journey is fueled by a deep curiosity for emerging technologies and a love for clean, efficient code.
 
 🖼️ UI/UX Enthusiast: Designing user-centric and visually captivating interfaces.
 ⚙️ Tech Explorer: Experimenting with the latest tools and frameworks.
@@ -100,7 +100,7 @@ A senior citizenship portal for managing pension applications with optimized nav
 
 A seamless trading experience powered by TradingView charts.
 
-Check out more projects through my portfolio www.waqasamin.tech.
+Check out more projects through my portfolio (https://github.com/WAQAS-AMIN/portfolio).
 
 
 
