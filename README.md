@@ -100,7 +100,7 @@ A senior citizenship portal for managing pension applications with optimized nav
 
 A seamless trading experience powered by TradingView charts.
 
-Check out more projects through my portfolio (https://github.com/WAQAS-AMIN/portfolio).
+Check out more projects through my portfolio (https://waqas-amin.github.io/portfolio).
 
 
 
